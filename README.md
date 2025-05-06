@@ -1,2 +1,3 @@
 # BookStore
-Exercício modulo 11 da EBAC
+
+Exercício modulo 11 da EBAC.
